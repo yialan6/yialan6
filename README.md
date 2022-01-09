@@ -1,4 +1,4 @@
-## Hi there! My name is Alan and I am a second year Computer Science at UC Irvine aspiring to become a Full Stack Developer.  
+## Hi there! My name is Alan - A second year CS student interested in Full Stack Development 
 
 My main **goals** right now are:
 - to gain proficiency in useful frameworks and technologies commonly used in the tech industry.
