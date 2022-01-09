@@ -1,4 +1,4 @@
-## Hi there! My name is Alan - A second year CS student interested in Full Stack Development 
+## Hi there! My name is Alan - A second year CS student @ UC Irvine
 
 My main **goals** right now are:
 - to gain proficiency in useful frameworks and technologies commonly used in the tech industry.
@@ -7,7 +7,7 @@ My main **goals** right now are:
 
 Currently, I am working on an ecommerce page to gain experience in working with backend databases and developing an intuitive front-end. I am using *Django* to dynamically process back-end data from a *SQL* database and displaying it into a front-end platform designed in HTML.
 
-If you would like to get in touch, you can find me on [link](https://www.linkedin.com/in/alan-yi-14003b225/) or you can email me at [link](yi.alan10@gmail.com)
+If you would like to get in touch, you can find me on [linkdin](https://www.linkedin.com/in/alan-yi-14003b225/) or you can send me an [email](yi.alan10@gmail.com).
 
 
 
