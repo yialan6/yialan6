@@ -3,7 +3,7 @@
 My main **goals** right now are:
 - to gain proficiency in useful frameworks and technologies commonly used in the tech industry.
 - to improve my imterpersonal skills and gain experience in working in a team environment.
-- to explore more tech-related fields that I find interest in (Front-End, ML, Security)  
+- to explore more tech-related fields that I find interest in (Front-End, ML, Fintech)  
 
 Currently, I am working on an ecommerce page to gain experience in working with backend databases and developing an intuitive front-end. I am using *Django* to dynamically process back-end data from a *SQL* database and displaying it into a front-end platform designed in HTML.
 
