@@ -1,4 +1,4 @@
-## Hi there! My name is Alan - A second year CS student @ UC Irvine
+## Hi there! My name is Alan, a second year CS student @ UC Irvine
 
 My main **goals** right now are:
 - to gain proficiency in useful frameworks and technologies commonly used in the tech industry.
