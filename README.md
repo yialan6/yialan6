@@ -1,6 +1,6 @@
 ## Hello! I'm Alan, a second year CS student @ UC Irvine
 
-If you would like to get in touch, you can find me on [Linkdin](https://www.linkedin.com/in/alan-yi-14003b225/) or you can send me an [email](yi.alan10@gmail.com).
+If you would like to get in touch, you can find me on [LinkdIn](https://www.linkedin.com/in/alan-yi-14003b225/) or you can send me an [email](yi.alan10@gmail.com).
 
 
 
